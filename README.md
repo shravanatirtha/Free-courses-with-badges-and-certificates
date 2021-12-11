@@ -27,6 +27,9 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-
 https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-interview-question-and-answer <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-interview-questions1 <br>
 
+#### Competitive Programming and DSA
+https://www.freecodecamp.org/learn/coding-interview-prep/ <br>
+
 #### Android Java/Kotlin
 https://www.coursera.org/learn/kotlin-for-java-developers <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-in-c <br>
