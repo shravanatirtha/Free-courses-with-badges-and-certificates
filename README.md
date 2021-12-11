@@ -29,6 +29,7 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-interv
 
 #### Competitive Programming and DSA
 https://www.freecodecamp.org/learn/coding-interview-prep/ <br>
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/ <br>
 
 #### Android Java/Kotlin
 https://www.coursera.org/learn/kotlin-for-java-developers <br>
