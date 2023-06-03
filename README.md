@@ -1,5 +1,5 @@
 ### Free courses with badges & certificates
-<b>Do add more if you know some!</b>
+<b>It is not affiliate. These are listed only to add value to resume. All free courses you need at one stop. These are courses covering most of the topics needed in the IT. You get completion certificates or badges after completing them successfully. <br> Do add more if you know some!</b>
 ### Contents
 #### Programming Basics
 https://learndigital.withgoogle.com/digitalgarage/course/grasshopper-learn-to-code <br>
