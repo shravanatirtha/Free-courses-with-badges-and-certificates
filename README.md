@@ -4,10 +4,8 @@
 #### Programming Basics(all)
 https://learndigital.withgoogle.com/digitalgarage/course/grasshopper-learn-to-code <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/programming-basics <br>
-
 #### English basics
 https://www.mygreatlearning.com/academy/learn-for-free/courses/smart-english-basics-for-professionals<br>  
-
 #### Aptitude
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-basics <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-for-interview-part-1 <br>
