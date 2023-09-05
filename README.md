@@ -1,4 +1,5 @@
-### Free courses with badges & certificates
+### Free courses with badges & certificates 
+
 <b>It is not affiliate. These are listed only to add value to resume. All free courses you need at one stop. These are courses covering most of the topics needed in the IT. You get completion certificates or badges after completing them successfully. <br> Do add more if you know some!</b>
 ### Contents
 #### Programming Basics(all)
@@ -6,15 +7,18 @@ https://learndigital.withgoogle.com/digitalgarage/course/grasshopper-learn-to-co
 https://www.mygreatlearning.com/academy/learn-for-free/courses/programming-basics <br>
 #### English basics
 https://www.mygreatlearning.com/academy/learn-for-free/courses/smart-english-basics-for-professionals<br>  
-#### Aptitude
+#### Aptitude 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-basics <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-for-interview-part-1 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-for-interview-part-2 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/logical-reasoning <br>
-#### Behavioral Questions
+#### Behavioral Questions 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/ace-coding-interviews <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-questions <br>
-#### Interview Questions
+#### Interview Questions 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/coding-interview-questions-and-answers <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-interview-questions <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/ace-coding-interviews <br>
