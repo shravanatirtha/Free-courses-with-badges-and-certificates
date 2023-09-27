@@ -5,20 +5,26 @@
 ### Contents
 
 #### Programming Basics(all)
+ 
 https://learndigital.withgoogle.com/digitalgarage/course/grasshopper-learn-to-code <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/programming-basics <br>
-#### English basics
+
+#### English basics 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/smart-english-basics-for-professionals<br>  
+
 #### Aptitude 
 
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-basics <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-for-interview-part-1 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/quantitative-aptitude-for-interview-part-2 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/logical-reasoning <br>
+
 #### Behavioral Questions 
 
 https://www.mygreatlearning.com/academy/learn-for-free/courses/ace-coding-interviews <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-questions <br>
+
 #### Interview Questions 
 
 https://www.mygreatlearning.com/academy/learn-for-free/courses/coding-interview-questions-and-answers <br>
@@ -30,9 +36,13 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/python-interview-
 https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-interview-question-and-answer <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-interview-question-and-answer <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-interview-questions1 <br>
-#### Competitive Programming and DSA
-https://www.freecodecamp.org/learn/coding-interview-prep/ <br>
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/ <br>
+
+#### Competitive Programming and DSA 
+
+https://www.freecodecamp.DSA
+/learn/coding-interview-prep/ <br>
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/ <br> 
+
 #### Android Java/Kotlin
 https://www.coursera.org/learn/kotlin-for-java-developers <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-in-c <br>
