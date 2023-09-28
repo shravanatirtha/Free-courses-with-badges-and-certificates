@@ -44,10 +44,12 @@ https://www.freecodecamp.DSA
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/ <br> 
 
 #### Android Java/Kotlin
-https://www.coursera.org/learn/kotlin-for-java-developers <br>
+https://www.coursera.org/learn/kotlin-Kotlin 
+va-developers <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-in-c <br>
 https://developer.android.com/courses/android-basics-kotlin/course <br>
-#### BigData
+#### BigData 
+
 https://cognitiveclass.ai/courses/what-is-big-data <br>
 #### Business, Leadership, HR and Management
 https://university.mongodb.com/courses/T101/about <br>
