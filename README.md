@@ -58,8 +58,10 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/product-managemen
 https://www.mygreatlearning.com/academy/learn-for-free/courses/principles-of-management<br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/supply-chain-management <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/time-management <br>
-https://www.mygreatlearning.com/academy/learn-for-free/courses/human-resource-management <br>
+https://www.mygreatlearning.com/academy/learn-for-free/courses/human-resource-management <br> 
+
 #### C Programming 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/c-for-beginners1 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-in-c <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/algorithms-in-c <br>
