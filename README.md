@@ -65,12 +65,16 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/human-resource-ma
 https://www.mygreatlearning.com/academy/learn-for-free/courses/c-for-beginners1 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-in-c <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/algorithms-in-c <br>
-https://www.mygreatlearning.com/academy/learn-for-free/courses/sorting-algorithms-in-c-for-beginners <br>
-#### Cloud
+https://www.mygreatlearning.com/academy/learn-for-free/courses/sorting-algorithms-in-c-for-beginners <br> 
+
+#### Cloud 
+
 https://go.qwiklabs.com/gwg <br>
 https://cognitiveclass.ai/courses/introduction-to-cloud <br>
-https://www.coursera.org/learn/cloud-computing <br>
-#### Digital Marketing, Google Ads & SEO
+https://www.coursera.org/learn/cloud-computing <br> 
+
+#### Digital Marketing, Google Ads & SEO 
+
 https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing <br>
 https://www.coursera.org/learn/seo-fundamentals <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing <br>
@@ -79,8 +83,10 @@ https://learndigital.withgoogle.com/digitalgarage/course/google-ads-video<br>
 https://learndigital.withgoogle.com/digitalgarage/course/create-search-campaigns <br>
 https://learndigital.withgoogle.com/digitalgarage/course/shopping-campaigns<br>
 https://learndigital.withgoogle.com/digitalgarage/course/measure-google-ads-campaign<br>
-https://learndigital.withgoogle.com/digitalgarage/course/google-ads-display-campaigns<br>
-#### AI, ML, Data Analysis, Datascience and R
+https://learndigital.withgoogle.com/digitalgarage/course/google-ads-display-campaigns<br> 
+
+#### AI, ML, Data Analysis, Datascience and R 
+
 https://learndigital.withgoogle.com/digitalgarage/course/introduction-to-r <br>
 https://learndigital.withgoogle.com/digitalgarage/course/data-science-with-python <br>
 https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2<br>
@@ -99,16 +105,20 @@ https://cognitiveclass.ai/courses/machine-learning-r<br>
 https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2 <br>
 https://cognitiveclass.ai/courses/predictive-modeling-fundamentals <br>
 https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0AYQEN+v1 <br>
-https://www.coursera.org/learn/sql-for-data-science <br>
-#### Frontend- HTML, CSS, UI/UX
+https://www.coursera.org/learn/sql-for-data-science <br> 
+
+#### Frontend- HTML, CSS, UI/UX 
+
 https://www.freecodecamp.org/learn/responsive-web-design/<br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/ui-ux <br>
 https://www.coursera.org/learn/bootstrap-4 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-front-end-development-html-css-java-script <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css <br>
-https://www.mygreatlearning.com/academy/learn-for-free/courses/ecommerce-website-with-html-css <br>
-#### JAVA
+https://www.mygreatlearning.com/academy/learn-for-free/courses/ecommerce-website-with-html-css <br> 
+
+#### JAVA 
+
 https://www.simplilearn.com/learn-java-basics-skillup/?utm_source=referral&utm_campaign=googledigitalgarage&utm_medium=external <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-java <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming <br>
