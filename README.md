@@ -144,16 +144,22 @@ https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-javascri
 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript-part2 <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-nodejs <br>
-https://university.mongodb.com/courses/M220JS/about <br>
-#### Cybersecurity & IT Support
+https://university.mongodb.com/courses/M220JS/about <br> 
+
+#### Cybersecurity & IT Support 
+
 https://www.coursera.org/professional-certificates/google-it-support <br>
 https://cognitiveclass.ai/courses/data-privacy<br>
-https://www.coursera.org/learn/intro-cyber-security-business<br>
-#### Git , DevOps and opensource
+https://www.coursera.org/learn/intro-cyber-security-business<br> 
+
+#### Git , DevOps and opensource 
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/competitive-programming-course <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1 <br>
-https://cognitiveclass.ai/courses/introduction-to-open-source<br>
-#### MYSQL & DBMS
+https://cognitiveclass.ai/courses/introduction-to-open-source<br> 
+
+#### MYSQL & DBMS 
+
 https://www.coursera.org/learn/database-management <br>
 https://cognitiveclass.ai/courses/learn-sql-relational-databases <br>
 https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics <br>
