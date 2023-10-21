@@ -179,6 +179,3 @@ https://cognitiveclass.ai/courses/course-v1:IBM+GPXX06RFEN+v1<br>
 https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0QD0EN+v1 <br>
 https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0YNEN+v1 <br>
 https://university.mongodb.com/courses/M220P/about <br>
-
-
-
